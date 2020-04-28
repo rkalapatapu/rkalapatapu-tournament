@@ -1,4 +1,4 @@
-    [
+{"tournaments":[
         {"tournamentId":"1",
           "tournamentName":"ABC",
           "startDate":"04/13/2020",
@@ -20,5 +20,5 @@
             "endDate":"04/25/2020"
           }
         ]
-    
+}
     
