@@ -1,20 +1,20 @@
 {"tournaments":[
-        {"tournamentId":"1",
+        {"tournamentId":1,
           "tournamentName":"ABC",
           "startDate":"04/13/2020",
           "endDate":"04/20/2020"
         },
-        {"tournamentId":"2",
+        {"tournamentId":2,
             "tournamentName":"PQR",
             "startDate":"04/16/2020",
             "endDate":"04/22/2020"
           },
-          {"tournamentId":"3",
+          {"tournamentId":3,
             "tournamentName":"XYZ",
             "startDate":"04/15/2020",
             "endDate":"04/23/2020"
           },
-          {"tournamentId":"4",
+          {"tournamentId":4,
             "tournamentName":"MNO",
             "startDate":"04/17/2020",
             "endDate":"04/25/2020"
